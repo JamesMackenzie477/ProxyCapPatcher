@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(51): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+  3 of 5 functions (60.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProxyCapPatcher.vcxproj -> D:\Projects\C++\ProxyCapPatcher\x64\Release\ProxyCapPatcher.exe
+  ProxyCapPatcher.vcxproj -> D:\Projects\C++\ProxyCapPatcher\x64\Release\ProxyCapPatcher.pdb (Full PDB)
